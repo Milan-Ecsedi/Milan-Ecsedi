@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Ferret-operator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferret-operator&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferret-operator)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ferret-operator/Ferret-operator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
