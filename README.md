@@ -5,7 +5,7 @@
 - 🔭 I'm currently looking for job
 - 🌱 I’m currently learning Next and React Frameworks. 
 - 💪 My strengths are Frontend and Backend.
-- 📫 How to reach me: ecsedi.milan20@gmail.com
+- 📫 How to reach me: milan.ecsedi20@gmail.com
 <!--
 **Ferret-operator/Ferret-operator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
